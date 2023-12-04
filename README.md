@@ -6,6 +6,8 @@ The deadline for this first phase of the projects is Sunday, October 22, 2023, (
 
 Deadline of the second project: The deadline for this second phase of the projects is Sunday, October 29, 2023, (7 Aban 1402) at 11:59 PM Tehran time and will not be extended in any way.
 
-<font color='red'>**Deadline of the third project:** The deadline for this third phase of the projects is Friday, November 24, 2023, (3 Azar 1402) at 11:59 PM Tehran time and will not be extended in any way.</font>
+Deadline of the third project: The deadline for this third phase of the projects is Friday, November 24, 2023, (3 Azar 1402) at 11:59 PM Tehran time and will not be extended in any way.
+
+<font color='red'>**Deadline of the fourth project:** The deadline for this fourth phase of the projects is Friday, December 15, 2023, (24 Azar 1402) at 11:59 PM Tehran time and will not be extended in any way.</font>
 
 As soon as the projects are completed, please send just the Jupyter file of your project, which includes the code + detailed report of your project, to the address j.amanirad@gmail.com.
